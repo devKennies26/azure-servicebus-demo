@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureServiceBusDemo.Common", "AzureServiceBusDemo.Common\AzureServiceBusDemo.Common.csproj", "{7DDAC0BC-E58B-4598-9A81-97D5AED8B393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureServiceBusDemo.Consumer", "AzureServiceBusDemo.Consumer\AzureServiceBusDemo.Consumer.csproj", "{C415AEAF-06D4-4DFE-9502-1068E1CEB5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureServiceBusDemo.Producer", "AzureServiceBusDemo.Producer\AzureServiceBusDemo.Producer.csproj", "{F10E172A-CBE7-45AE-91C0-C2DBA804E391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DDAC0BC-E58B-4598-9A81-97D5AED8B393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDAC0BC-E58B-4598-9A81-97D5AED8B393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDAC0BC-E58B-4598-9A81-97D5AED8B393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDAC0BC-E58B-4598-9A81-97D5AED8B393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C415AEAF-06D4-4DFE-9502-1068E1CEB5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C415AEAF-06D4-4DFE-9502-1068E1CEB5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C415AEAF-06D4-4DFE-9502-1068E1CEB5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C415AEAF-06D4-4DFE-9502-1068E1CEB5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10E172A-CBE7-45AE-91C0-C2DBA804E391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10E172A-CBE7-45AE-91C0-C2DBA804E391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10E172A-CBE7-45AE-91C0-C2DBA804E391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10E172A-CBE7-45AE-91C0-C2DBA804E391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

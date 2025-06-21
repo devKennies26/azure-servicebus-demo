@@ -1,0 +1,6 @@
+@AzureServiceBusDemo.Producer_HostAddress = http://localhost:5076
+
+GET {{AzureServiceBusDemo.Producer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GZRJTJr4Teopf6m+9+WqDc1xg7gVDrUVJYidANt84LI=",
+  "Source": "AzureServiceBusDemo.Producer",
+  "BasePath": "_content/AzureServiceBusDemo.Producer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

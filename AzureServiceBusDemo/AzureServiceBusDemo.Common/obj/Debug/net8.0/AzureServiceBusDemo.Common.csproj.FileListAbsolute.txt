@@ -1,0 +1,11 @@
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\bin\Debug\net8.0\AzureServiceBusDemo.Common.deps.json
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\bin\Debug\net8.0\AzureServiceBusDemo.Common.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\bin\Debug\net8.0\AzureServiceBusDemo.Common.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\obj\Debug\net8.0\AzureServiceBusDemo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\obj\Debug\net8.0\AzureServiceBusDemo.Common.AssemblyInfoInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\obj\Debug\net8.0\AzureServiceBusDemo.Common.AssemblyInfo.cs
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\obj\Debug\net8.0\AzureServiceBusDemo.Common.csproj.CoreCompileInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\obj\Debug\net8.0\AzureServiceBusDemo.Common.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\obj\Debug\net8.0\refint\AzureServiceBusDemo.Common.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\obj\Debug\net8.0\AzureServiceBusDemo.Common.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to azure service bus\AzureServiceBusDemo\AzureServiceBusDemo.Common\obj\Debug\net8.0\ref\AzureServiceBusDemo.Common.dll

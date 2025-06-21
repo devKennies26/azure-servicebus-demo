@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AzureServiceBusDemo.Producer.props" />
+</Project>
